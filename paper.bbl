@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname doiprefix\endcsname\relax\def\doiprefix{DOI }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{mittner2014brain}
+\bibinfo{author}{Mittner, M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{When the brain takes a break: a
+  model-based analysis of mind wandering}}.
+\newblock {\emph{\JournalTitle{The Journal of Neuroscience}}}
+  \textbf{\bibinfo{volume}{34}}, \bibinfo{pages}{16286--16295}
+  (\bibinfo{year}{2014}).
+
+\end{thebibliography}

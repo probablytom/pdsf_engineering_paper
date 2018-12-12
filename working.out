@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Concepts}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Inner and Outer Aspects}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Fuzzers as graph transformations}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{FILM}{}% 5
+\BOOKMARK [1][-]{section.4}{PyDySoFu}{}% 6
+\BOOKMARK [1][-]{section.5}{Exploring potential use cases}{}% 7
+\BOOKMARK [2][-]{subsection.5.1}{Experimental design}{section.5}% 8
+\BOOKMARK [3][-]{subsubsection.5.1.1}{CAiSE Paper}{subsection.5.1}% 9
+\BOOKMARK [2][-]{subsection.5.2}{Generative Art}{section.5}% 10
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Implementation example}{subsection.5.2}% 11
+\BOOKMARK [2][-]{subsection.5.3}{Service Design}{section.5}% 12
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Designing}{subsection.5.3}% 13
+\BOOKMARK [2][-]{subsection.5.4}{Future engineering work}{section.5}% 14
+\BOOKMARK [1][-]{subsection.5.4}{References}{}% 15
